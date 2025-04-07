@@ -1,0 +1,30 @@
+html {
+    background-color: rgb(252, 239, 241);
+}
+
+header {
+    background-color: rgb(248, 86, 113);
+    width: 100%;
+    text-wrap: wrap;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    padding: 40px 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.box {
+    text-align: center;
+    border: 3px solid rgb(248, 86, 113);
+}
+
+.description {
+    text-align: left;
+    margin-top: 25px;
+}
